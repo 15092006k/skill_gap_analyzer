@@ -1,2 +1,5 @@
-random
 streamlit
+pandas
+plotly
+requests
+reportlab
